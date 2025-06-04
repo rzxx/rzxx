@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rzxx
-- 👀 I’m not intersted
-- 🌱 I’m not currently learning
-- 💞️ I’m not looking to collaborate
+- 👀 I’m intersted in Web Development and Design
+- 🌱 I’m currently all-in on learning React
+- 💞️ I’m looking to collaborate
 
 <!---
 rzxx/rzxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
